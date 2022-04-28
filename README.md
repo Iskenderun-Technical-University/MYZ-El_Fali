@@ -47,7 +47,7 @@ google firebase,
 - [X] 2.Login ekran tasarımı 	                           22-04-2022
 - [X] 3.Kayıt ekranı tasarımı 	                         24-04-2022
 - [x] 4.Yorum yapma ekranı tasarımı	                     26-04-2022	
-- [x] 5.Fotoğraf yükleme ekranı tasarımı	               29-04-2022
+- [ ] 5.Fotoğraf yükleme ekranı tasarımı	               29-04-2022
 - [ ] 6.Değerlendirme ekranı tasarımı                    01-05-2022
 
 
