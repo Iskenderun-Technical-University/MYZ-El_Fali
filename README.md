@@ -37,14 +37,14 @@ google firebase,
 
 
                                                       GÖREV LİSTESİ
-- [ ] 1. Veritabanı tasarımı Zeynep saydam
-- [ ] 2. Arayüz tasarımı yaşar sözkesen
-- [ ] 3. Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
-- [ ] 4. Backend kodlanması Muhammed Meriç türkyılmaz
+- [x] 1. Veritabanı tasarımı Zeynep saydam
+- [x] 2. Arayüz tasarımı yaşar sözkesen
+- [x] 3. Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
+- [x] 4. Backend kodlanması Muhammed Meriç türkyılmaz
 
                                               veri tabanı tasarımı Zeynep SAYDAM                             
 - [x] 1. firebase projesi oluşturma                      15-04-2022
-- [ ] 2. nosql veritabanı tasarımı                       17-04-2022
+- [x] 2. nosql veritabanı tasarımı                       17-04-2022
 
                                               Arayüz tasarımı Yaşar SÖZKESEN                          
 - [x] 1.Logo tasarımı                                    18-04-2022
