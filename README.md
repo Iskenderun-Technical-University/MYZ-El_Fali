@@ -81,7 +81,7 @@ google firebase,
 - [ ] 5.Değerlendirme mobil ekranı tasarımı	14-05-2022
 
 
-
+ 
 
                                           -- Backend Kodlanması Muhammed Meriç TÜRKYILMAZ --
                                            
