@@ -35,8 +35,8 @@ Flutter(Dart),
 
 google firebase,
 
-
-                                                      GÖREV LİSTESİ
+ 
+                                                        GÖREV LİSTESİ
 - [x] 1. Veritabanı tasarımı Zeynep saydam
 - [x] 2. Arayüz tasarımı yaşar sözkesen
 - [x] 3. Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
