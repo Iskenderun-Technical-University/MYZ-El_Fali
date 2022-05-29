@@ -66,6 +66,7 @@ google firebase,
   
   
                              Frontend Tasarımı Zeynep Saydam - Yaşar Sözkesen - Muhammed Meriç Türkyılmaz
+                             
 - [x] 1.Login ekran mobil tasarımı 2-05-2022
 - [x] 2.Kayıt ekranı mobil tasarımı 4-05-2022
 - [ ] 3.Yorum yapma ekranı mobil tasarımı 8-05-22
