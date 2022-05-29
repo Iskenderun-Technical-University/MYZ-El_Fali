@@ -15,7 +15,7 @@
 ![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
 
-                                                          -- Uml class Diagramı --
+                                                        -- Uml class Diagramı --
                                                     
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
 
