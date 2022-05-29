@@ -81,7 +81,7 @@ google firebase,
                                  Katkı Sağlayanlar
 
 
-Muhammed Meriç Türkyılmaz 202503303.
+Muhammed Meriç Türkyılmaz 202503303
 
 Zeynep Saydam 202503001.
 
