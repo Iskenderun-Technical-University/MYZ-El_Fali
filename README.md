@@ -78,7 +78,7 @@ google firebase,
 
 
 
-                                 Katkı Sağlayanlar
+                                                     Katkı Sağlayanlar
 
  
 Muhammed Meriç Türkyılmaz 202503303
