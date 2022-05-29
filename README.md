@@ -42,7 +42,6 @@
 
 
 Flutter(Dart),
-
 google firebase,
 
  
