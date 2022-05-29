@@ -9,8 +9,8 @@
 İnsanlara eğlence amaçlı telefon üzerinden el falı baktırmak. İnsanlar bu sıkıntılı günlerde oyalancak yeni şeyler aramaktadır, bunun için el falı uygulamamız ile üstünden gelmeyi hedefliyoruz. El fotoğraflarını çekip başka kullanıcılara paylaşırlar, başka kullanıclar ise bu fotoğrafa bakarak yorum yaparlar ve eğer doğru olursa paylaşan kişi o yorumu işaretler. Burada falcı yorumcu yok, sıradan kullanıcılar paylaşan kişi hakkında tahmin etme oyunu oynayacaklar aslında.
  
 
-                                                      -- Use Case Diagramı --
-
+                                                     -- Use Case Diagramı --
+                                                      
 
 ![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
