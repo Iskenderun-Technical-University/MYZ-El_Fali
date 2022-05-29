@@ -19,8 +19,8 @@
                                                     
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
 
-                                                    Akış Diagramı
-
+                                                       Akış Diagramı
+ 
 
 ![El falı diagram](https://user-images.githubusercontent.com/63651151/158247338-cfe14c08-93db-41d6-b2de-4141b9025995.png)
 
