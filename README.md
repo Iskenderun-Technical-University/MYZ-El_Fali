@@ -3,12 +3,16 @@
 ![el-fal](https://user-images.githubusercontent.com/63651151/158247276-2e9ec9bf-3e63-43fa-8922-f30bd7a0c754.jpg) 
 
  
-
+  
+  
+ 
                                                        -- Projenin Amacı --   
  
  
 İnsanlara eğlence amaçlı telefon üzerinden el falı baktırmak. İnsanlar bu sıkıntılı günlerde oyalancak yeni şeyler aramaktadır, bunun için el falı uygulamamız ile üstünden gelmeyi hedefliyoruz. El fotoğraflarını çekip başka kullanıcılara paylaşırlar, başka kullanıclar ise bu fotoğrafa bakarak yorum yaparlar ve eğer doğru olursa paylaşan kişi o yorumu işaretler. Burada falcı yorumcu yok, sıradan kullanıcılar paylaşan kişi hakkında tahmin etme oyunu oynayacaklar aslında.
  
+
+
 
                                                      -- Use Case Diagramı --
                                                       
@@ -16,10 +20,13 @@
 ![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
 
+
                                                      -- Uml class Diagramı --
                                                     
                                                     
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
+
+
 
 
 
@@ -39,6 +46,7 @@ Flutter(Dart),
 
 google firebase,
 
+ 
  
                                                         -- GÖREV LİSTESİ --
                                                         
@@ -70,6 +78,7 @@ google firebase,
 
   
   
+ 
   
   
                             -- Frontend Tasarımı Zeynep Saydam - Yaşar Sözkesen - Muhammed Meriç Türkyılmaz --
@@ -82,6 +91,7 @@ google firebase,
 
 
  
+
 
                                           -- Backend Kodlanması Muhammed Meriç TÜRKYILMAZ --
                                            
