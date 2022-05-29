@@ -61,7 +61,6 @@ google firebase,
 - [ ] 3.Yorum yapma ekranı mobil tasarımı 8-05-22
 - [x] 4.Fotoğraf yükleme mobil ekranı tasarımı 12-05-2022
 - [ ] 5.Değerlendirme mobil ekranı tasarımı	14-05-2022
-- [ ] 
 
 
 
