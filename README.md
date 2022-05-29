@@ -55,7 +55,8 @@ google firebase,
 
 
 
-                                                Arayüz Tasarımı Yaşar SÖZKESEN                          
+                                                Arayüz Tasarımı Yaşar SÖZKESEN  
+                                                
 - [x] 1.Logo tasarımı                                    18-04-2022
 - [X] 2.Login ekran tasarımı 	                           22-04-2022
 - [X] 3.Kayıt ekranı tasarımı 	                         24-04-2022
