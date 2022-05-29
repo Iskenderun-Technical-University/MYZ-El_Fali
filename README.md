@@ -46,7 +46,7 @@ google firebase,
 - [x] 1. firebase projesi oluşturma                      15-04-2022
 - [x] 2. nosql veritabanı tasarımı                       17-04-2022
 
-                                              Arayüz tasarımı Yaşar SÖZKESEN                          
+                                                Arayüz Tasarımı Yaşar SÖZKESEN                          
 - [x] 1.Logo tasarımı                                    18-04-2022
 - [X] 2.Login ekran tasarımı 	                           22-04-2022
 - [X] 3.Kayıt ekranı tasarımı 	                         24-04-2022
