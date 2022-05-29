@@ -2,8 +2,6 @@
 
 ![el-fal](https://user-images.githubusercontent.com/63651151/158247276-2e9ec9bf-3e63-43fa-8922-f30bd7a0c754.jpg) 
 
- 
-  
   
  
                                                        -- Projenin Amacı --   
@@ -21,7 +19,7 @@
 
 
 
-                                                     -- Uml class Diagramı --
+                                                     -- Uml Class Diagramı --
                                                     
                                                     
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
@@ -39,7 +37,7 @@
  
 
 
-                                                      -- Kullanılacak Diller -- 
+                                                    -- Kullanılacak Diller -- 
 
 
 Flutter(Dart),
