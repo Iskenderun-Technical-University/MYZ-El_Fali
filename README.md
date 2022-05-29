@@ -4,22 +4,22 @@
 
  
 
-                                                        -- Projenin Amacı --  
+                                                       -- Projenin Amacı --  
  
 İnsanlara eğlence amaçlı telefon üzerinden el falı baktırmak. İnsanlar bu sıkıntılı günlerde oyalancak yeni şeyler aramaktadır, bunun için el falı uygulamamız ile üstünden gelmeyi hedefliyoruz. El fotoğraflarını çekip başka kullanıcılara paylaşırlar, başka kullanıclar ise bu fotoğrafa bakarak yorum yaparlar ve eğer doğru olursa paylaşan kişi o yorumu işaretler. Burada falcı yorumcu yok, sıradan kullanıcılar paylaşan kişi hakkında tahmin etme oyunu oynayacaklar aslında.
  
 
-                                                         -- Use Case Diagramı --
+                                                      -- Use Case Diagramı --
 
 
 ![use case](https://user-images.githubusercontent.com/63651151/160461792-0cbb38a4-a2d0-4ead-b62a-fa58e74cf6dd.png)
 
 
-                                                        -- Uml class Diagramı --
+                                                     -- Uml class Diagramı --
                                                     
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
 
-                                                          -- Akış Diagramı --
+                                                        -- Akış Diagramı --
  
 
 ![El falı diagram](https://user-images.githubusercontent.com/63651151/158247338-cfe14c08-93db-41d6-b2de-4141b9025995.png)
@@ -28,7 +28,7 @@
  
 
 
-                                                       -- Kullanılacak Diller --
+                                                      -- Kullanılacak Diller --
 
 
 Flutter(Dart),
@@ -36,7 +36,7 @@ Flutter(Dart),
 google firebase,
 
  
-                                                         -- GÖREV LİSTESİ --
+                                                        -- GÖREV LİSTESİ --
                                                         
 - [x] 1. Veritabanı tasarımı Zeynep saydam
 - [x] 2. Arayüz tasarımı yaşar sözkesen
@@ -47,7 +47,7 @@ google firebase,
 
 
 
-                                                 -- Veri Tabanı Tasarımı Zeynep SAYDAM --
+                                             -- Veri Tabanı Tasarımı Zeynep SAYDAM --
                                               
 - [x] 1. Firebase projesi oluşturma                      15-04-2022
 - [x] 2. Nosql veritabanı tasarımı                       17-04-2022
@@ -79,7 +79,7 @@ google firebase,
 
 
 
-                                           -- Backend Kodlanması Muhammed Meriç TÜRKYILMAZ --
+                                          -- Backend Kodlanması Muhammed Meriç TÜRKYILMAZ --
                                            
 - [x] 1.Kullanıcı girişi firebase bağlantısı 20-05-2022 
 - [x] 2.Kullanıcı firebase kayıt işlemi 21-05-2022
@@ -91,8 +91,8 @@ google firebase,
 
 
 
-                                                     ---- Katkı Sağlayanlar ----
-
+                                                   ---- Katkı Sağlayanlar ----
+                                                     
  
 Muhammed Meriç Türkyılmaz 202503303
 
