@@ -28,7 +28,7 @@
  
 
 
-                                                      -- Kullanılacak Diller --
+                                                      -- Kullanılacak Diller -- 
 
 
 Flutter(Dart),
