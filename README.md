@@ -28,7 +28,7 @@
 
 
 
-                                                           -- Kullanılacak Diller --
+                                                       -- Kullanılacak Diller --
 
 
 Flutter(Dart),
@@ -36,7 +36,7 @@ Flutter(Dart),
 google firebase,
 
  
-                                                        GÖREV LİSTESİ
+                                                         -- GÖREV LİSTESİ --
                                                         
 - [x] 1. Veritabanı tasarımı Zeynep saydam
 - [x] 2. Arayüz tasarımı yaşar sözkesen
