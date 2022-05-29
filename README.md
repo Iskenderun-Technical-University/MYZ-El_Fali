@@ -85,5 +85,5 @@ Muhammed Meriç Türkyılmaz 202503303
 
 Zeynep Saydam 202503001
 
-Yaşar Sözkesen 202503051.
+Yaşar Sözkesen 202503051
 
