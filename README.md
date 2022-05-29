@@ -42,7 +42,7 @@ google firebase,
 - [x] 3. Frontend tasarımı Zeynep saydam- yaşar sözkesen-Muhammed Meriç türkyılmaz
 - [x] 4. Backend kodlanması Muhammed Meriç türkyılmaz
 
-                                              veri tabanı tasarımı Zeynep SAYDAM                             
+                                              Veri tabanı tasarımı Zeynep SAYDAM                             
 - [x] 1. firebase projesi oluşturma                      15-04-2022
 - [x] 2. nosql veritabanı tasarımı                       17-04-2022
 
