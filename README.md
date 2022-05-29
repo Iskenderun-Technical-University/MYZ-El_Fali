@@ -66,7 +66,7 @@ google firebase,
 
 
                                  Backend kodlanması Muhammed Meriç türkyılmaz
-- [x] 1.Kullanıcı girişi firebase bağlantısı 20-05-2022
+- [x] 1.Kullanıcı girişi firebase bağlantısı 20-05-2022 
 - [x] 2.Kullanıcı firebase kayıt işlemi 21-05-2022
 - [x] 3.Resimlerin firebase gönderilmesi 22-05-2022
 - [x] 4.Resimlerin ana menüde yayınlanması 26-05-2022 
