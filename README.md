@@ -59,7 +59,7 @@ google firebase,
 - [x] 1.Login ekran mobil tasarımı 2-05-2022
 - [x] 2.Kayıt ekranı mobil tasarımı 4-05-2022
 - [ ] 3.Yorum yapma ekranı mobil tasarımı 8-05-22
-- [x] 4.Fotoğraf yükleme mobil ekranı tasarımı 12-05-2022
+- [x] 4.Fotoğraf yükleme mobil ekranı tasarımı 12-05-2022 
 - [ ] 5.Değerlendirme mobil ekranı tasarımı	14-05-2022
 
 
