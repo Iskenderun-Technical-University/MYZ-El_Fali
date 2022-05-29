@@ -18,6 +18,7 @@
 
                                                      -- Uml class Diagramı --
                                                     
+                                                    
 ![uml class diyagramı](https://user-images.githubusercontent.com/92151659/165731048-9c03c833-660f-4baa-b7f4-68ac50ad1b82.png)
 
                                                         -- Akış Diagramı --
